@@ -1,0 +1,28 @@
+*{
+    outline: 1px solid red;
+}
+
+body{
+    width: 970px;
+    margin: 0 auto;
+}
+header{
+    text-align: center;
+}
+
+header span{
+    font-weight: bold;
+}
+
+img{
+    width: 100px;
+}
+
+ul{
+    width: 625px;
+    margin: 0 auto;
+}
+
+li{
+    display: inline-block;
+}
